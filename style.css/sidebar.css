@@ -6,4 +6,30 @@
   z-index: 100;
   width: 70px;
   background-color: white;
+  z-index: 200;
+  padding-top: 5px;
+}
+
+.sidebar-link{
+  height: 74px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+  /* row-gap: 4px; */
+}
+
+.sidebar-link img{
+  height: 24px;
+  margin-bottom: 6px;
+}
+
+.sidebar-link div {
+  font-family: Roboto, arial;
+  font-size: 10px;
+}
+
+.sidebar-link:hover{
+  background-color: rgba(235, 235, 235, 0.879);
 }

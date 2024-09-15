@@ -2,8 +2,10 @@ body{
   margin: 0;
   padding: 0;
   padding-top: 80px;
-  padding-left: 80px;
+  padding-left: 100px;
+  padding-right: 24px;
   box-sizing: border-box;
+  background-color: rgba(227, 227, 227, 0.175);
 }
 
 p{
