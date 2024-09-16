@@ -1,15 +1,18 @@
 body{
   margin: 0;
-  padding: 0;
-  padding-top: 80px;
-  padding-left: 100px;
-  padding-right: 24px;
+  padding: 80px 24px 0px 100px;
   box-sizing: border-box;
   background-color: rgba(227, 227, 227, 0.175);
+  font-family: Roboto, arial;
+}
+
+@media (min-width: 1200.1px) {
+  body{
+    margin-left: 170px;
+  }
 }
 
 p{
-  font-family: Roboto, arial;
   margin-top: 0;
   margin-bottom: 0;
 }
