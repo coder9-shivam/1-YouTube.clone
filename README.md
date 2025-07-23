@@ -1,31 +1,58 @@
+# 🎥 YouTube Clone (HTML & CSS)
 
-<h1>🎥 YouTube Clone (HTML & CSS)</h1>
-This project is a simple clone of the YouTube homepage built using only HTML and CSS. It mimics the basic structure and layout of YouTube, including the header, sidebar, video thumbnails, and responsive grid layout.
+This project is a front-end clone of the YouTube homepage created using only **HTML** and **CSS**. It replicates the layout, design, and structure of YouTube's main interface, including the header, sidebar, and video grid, to practice modern HTML/CSS techniques.
 
+## 📌 Features
 
-<h3>💡 Features</h3>
-<ul>
-  <li>✅ Responsive layout (adapts to different screen sizes)</li>
+- ✅ Header with YouTube logo, search bar, and user icons
+- ✅ Sidebar menu with navigation links (Home, Trending, Subscriptions, etc.)
+- ✅ Video section with responsive grid layout
+- ✅ Video cards displaying thumbnails, titles, channels, and view counts
+- ✅ Responsive design using Flexbox and CSS Grid
+- ✅ Clean, modern UI inspired by YouTube
 
-  <li>✅ Navigation bar with logo, search box, and icons</li>
+## 🛠️ Technologies Used
 
-  <li>✅ Sidebar with menu items (Home, Trending, Subscriptions, etc.)</li>
+- HTML5 for semantic structure
+- CSS3 for layout and styling (Flexbox & Grid)
+- Google Fonts and Font Awesome (optional icons)
 
-  <li>✅ Video section with thumbnails, titles, and channel details</li>
+## 📂 Folder Structure
+- youtube-clone/
+  ├── youtube.html
+  ├── style.css
+      ├── general.css
+      ├── header.css
+      ├── sidebar.css
+      └── video.css
+  ├── Channel_picture/
+  ├── icons/
+  ├── sidebar.icons/
+  ├── Thumbnail/
+  └── README.md
 
-  <li>✅ Hover effects and clean UI</li>
-</ul>
+## 🚀 How to Run the Project
 
+1. Clone this repository or download the ZIP.
+2. Open `index.html` in your web browser.
+3. No additional setup or dependencies required.
 
-<h3>🛠️ Technologies Used</h3>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3 (Flexbox & Grid)</li>
-</ul>
+## 📷 Screenshots
 
+> *(Add screenshot links or embedded images here if available)*
 
-<h2>🚀 How to Run</h2>
-<ol>
-  <li>Download or clone this repository.</li>
-  <li>Open index.html in your browser.</li>
-</ol>
+## 📖 Learning Objectives
+
+- Practice structuring static web pages using semantic HTML
+- Use CSS Flexbox and Grid for responsive layouts
+- Recreate modern UI designs using only front-end technologies
+
+## 🙋‍♂️ Author
+
+**Shivam Rajput**
+*Student at IGNOU, learning front-end development*
+
+## ✅ License
+
+This project is for educational purposes only and is not affiliated with or endorsed by YouTube or Google.
+
